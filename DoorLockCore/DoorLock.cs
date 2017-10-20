@@ -5,6 +5,7 @@ using System.Configuration;
 using System.Linq;
 using System.Text;
 
+//Some comment
 public class DoorLock
 {
     private bool _IsLocked = false;
